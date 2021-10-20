@@ -26,7 +26,7 @@ stomClickFunction":null,"Underline":false,"check":
 false,"visible":true,"BooleanIcon":null,"PrependIc
 onType":null,"MultipleFields":"","Centered":false,
 "AppendIconType":null,"isEditIcon":false,"CustomVu
-eComponent":null,"Sort":0,"CustomFilterType":29,"C
+eComponent":null,"Sort":1,"CustomFilterType":29,"C
 ustomFilterAlternateField":"","AllowVisible":true,
 "Summarize":false,"GroupBy":false},{"label":"WO#",
 "width":5,"HeaderWidth":0,"FooterWidth":0,"field":
@@ -904,10 +904,11 @@ total":false,"IncludeTotal":false,"SummaryFields":
 ViewOnVue":false,"MoreActions":[{"Label":"EXPORT A
 LL AS CSV","Icon":"export-green","Type":1,"Path":"
 ExportList","ActionEnable":"ExportEnable","RecCoun
-t":0,"APIVersion":0}],"Sorts":[]},"rowInitial":18,
-"totalResults":17,"desc":false,"order":"CustomerNa
-me","AllowReserve":false,"sectionSummary":{"Curren
-tKey":null,"CurrentModel":null,"Subtotal":[],"Tota
-l":[],"Values":[],"RecCount":0,"APIVersion":0},"bu
-sinessUnits":[],"BusUnitsEnabled":true,"accounting
-System":1,"accountingRegion":0}
+t":0,"APIVersion":0}],"Sorts":[{"Name":"CustomerNa
+me","Field":"CustomerName","Descending":false}]},"
+rowInitial":1,"totalResults":17,"desc":false,"orde
+r":"CustomerName","AllowReserve":false,"sectionSum
+mary":{"CurrentKey":null,"CurrentModel":null,"Subt
+otal":[],"Total":[],"Values":[],"RecCount":0,"APIV
+ersion":0},"businessUnits":[],"BusUnitsEnabled":tr
+ue,"accountingSystem":1,"accountingRegion":0}
