@@ -803,7 +803,7 @@ ame":"Work Performed","Value":"6","Selected":false
 :"resolution","LabelText":"Choose resolution","Mul
 tipleSelectedText":"resolution","DateKind":0,"Inde
 ntProp":null,"IsAllSelected":false,"RecCount":0,"A
-PIVersion":0}],"Sorts":[],"RecCount":24696,"Requir
+PIVersion":0}],"Sorts":[],"RecCount":24697,"Requir
 esCountUpdate":false,"RequiresChart":false,"Filter
 Applied":true,"Chart":{"AggregateRules":{"SeriesNu
 mberFormat":0,"GroupField":null,"GroupLegendField"
@@ -904,10 +904,10 @@ total":false,"IncludeTotal":false,"SummaryFields":
 ViewOnVue":false,"MoreActions":[{"Label":"EXPORT A
 LL AS CSV","Icon":"export-green","Type":1,"Path":"
 ExportList","ActionEnable":"ExportEnable","RecCoun
-t":0,"APIVersion":0}],"Sorts":[]},"rowInitial":18,
-"totalResults":17,"desc":false,"order":"CustomerNa
-me","AllowReserve":false,"sectionSummary":{"Curren
-tKey":null,"CurrentModel":null,"Subtotal":[],"Tota
-l":[],"Values":[],"RecCount":0,"APIVersion":0},"bu
-sinessUnits":[],"BusUnitsEnabled":true,"accounting
-System":1,"accountingRegion":0}
+t":0,"APIVersion":0}],"Sorts":[]},"rowInitial":1,"
+totalResults":17,"desc":false,"order":"CustomerNam
+e","AllowReserve":false,"sectionSummary":{"Current
+Key":null,"CurrentModel":null,"Subtotal":[],"Total
+":[],"Values":[],"RecCount":0,"APIVersion":0},"bus
+inessUnits":[],"BusUnitsEnabled":true,"accountingS
+ystem":1,"accountingRegion":0}
